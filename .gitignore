@@ -22,3 +22,7 @@ go.work
 
 # env
 app.env
+
+#logs
+/tmp
+tmp/*
