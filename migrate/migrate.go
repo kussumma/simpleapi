@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/zenpeaky/simpleapi/initializers"
-	"github.com/zenpeaky/simpleapi/models"
+	"simpleapi/initializers"
+	"simpleapi/models"
 )
 
 func init() {
